@@ -1,4 +1,4 @@
-package br.com.pet_love.crontroller;
+package br.com.pet_love.controller;
 
 
 import br.com.pet_love.entity.FornecedoresEntity;
